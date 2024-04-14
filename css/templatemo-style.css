@@ -1269,6 +1269,10 @@ footer a:hover {
 }
 
 @media (max-width: 530px) {
+  #video-container .video-content .inner h1{
+    font-size: 45px;
+  }
+
   .modal-header h3 {
     margin-top: 15%;
   }
